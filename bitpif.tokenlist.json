@@ -12,6 +12,14 @@
   "tokens": [
     {
       "chainId": 1,
+      "address": "0x5197FBE1a86679FF1360E27862BF88B0c5119BD8",
+      "symbol": "BPF",
+      "name": "BITPIF",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
       "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
       "symbol": "ANT",
       "name": "Aragon",
